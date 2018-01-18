@@ -13,7 +13,7 @@ The script does the following
 # How the script works
 
 1. The first part downloads the data set from the source.
-2. The file is unzip to a directory, in my assignment, it's in ./data found in my computer.
+2. The file is unzipped to a directory. In my assignment, it's in ./data found in my computer.
 3. Activity labels and features are loaded.
 4. As instructed, there is a code that extracts only the data on mean and standard deviation.
 5. The data sets from the source, properly labelled, are loaded and merged.
